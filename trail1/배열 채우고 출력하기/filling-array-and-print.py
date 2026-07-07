@@ -1,0 +1,4 @@
+arr = list(input().split())
+rev = arr[::-1]
+
+print(rev[0]+rev[1]+rev[2]+rev[3]+rev[4]+rev[5]+rev[6]+rev[7]+rev[8]+rev[9])   
